@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interfaz>
+    <campo tipo="etiqueta" texto="Cual es la ultima pelicula Disney que has visto?"></campo>
+    <campo tipo="entrada" texto=""></campo>
+    
+    <campo tipo="etiqueta" texto="Incica cuanto te gusto:""></campo>
+    <campo tipo="deslizable"></campo>
+    
+    <campo tipo="etiqueta" texto="Slecciona tus favoritas:"></campo>
+    <campo tipo="radio" texto="peliculas antiguas Disney"></campo>
+    <campo tipo="radio" texto="peliculas de hoy en dia Disney"></campo>
+    
+    <campo tipo="multiple" texto="Selecciona si eres fan de Disney"></campo>
+                                                                   
+    <campo tipo="etiqueta" texto="Selecciona aproximadamente cuantas peliculas Disney has visto:"></campo>                                                 
+    <campo tipo="numerico"></campo>
+   
+    <campo tipo="etiqueta" texto="Gracias. Para salir, pulsa en Archivo y luego Salir."></campo>
+
+</interfaz>
